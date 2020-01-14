@@ -1,0 +1,87 @@
+html {
+	width: 480px;
+	height: 679px;
+	margin-top: 0px;
+}
+body {
+	font-family: 'Open Sans', sans-serif;
+	color:#ffffff;
+}
+
+.container {
+	background: url(./images/img_fan_bg.jpg);
+	width: 480px;
+	height: 679px;
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  padding-top: 50px;
+}
+
+.title {
+	    height: 160px;
+	    text-align: center;
+	    font-style: italic;
+	    margin-top: 20px;
+}
+.title h2 {
+	font-size: 20px;
+	margin-top: 20px;
+	font-weight: 400;
+}
+
+h1, h2 {
+	    margin: 0px;    
+}
+
+p {
+	    margin: 0px;
+	    margin-top: 0px;    
+}
+
+.banner {
+	background: url(./images/rfrrl_card_bg.png);
+    height: 200px;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-left: 50px;
+    padding-top: 24px;
+    color: #000000;
+
+}
+
+.banner h1 {
+	color: red;
+	font-size: 42px;
+}
+
+.banner p {
+	font-size: 12px;
+	font-style: italic;
+	margin-top: 15px;
+}
+.kl-rahul {
+	position: absolute;
+	bottom: 95px;
+	right: 0px;
+}
+
+.footer {
+	background-color: #ffffff;
+    position: absolute;
+    bottom: 0px;
+    width: 480px;
+    height: 100px;
+    text-align: center;
+    left : 0;
+}
+
+.footer .f-banner {
+    background-color: #d0d0d0;
+    width: 100%;
+    color: #000;
+    font-size: 12px;
+    margin-bottom: 15px;
+}
